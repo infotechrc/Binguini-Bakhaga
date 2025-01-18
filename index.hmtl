@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binguini Bakhaga - Site Officiel</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur le site officiel de Binguini Bakhaga</h1>
+    </header>
+    <div class="container">
+        <h2>À propos de l'entreprise</h2>
+        <p>Binguini Bakhaga est une entreprise reconnue pour ses services professionnels et sa mission de fournir des solutions uniques à ses clients. Nous sommes fiers de notre engagement envers la qualité et l'excellence.</p>
+        <p><strong>Nom légal :</strong> Binguini Bakhaga</p>
+
+        <h2>Contact</h2>
+        <p>Pour nous contacter :</p>
+        <ul>
+            <li>Email : contact@binguini-bakhaga.com</li>
+            <li>Téléphone : +33 1 23 45 67 89</li>
+        </ul>
+
+        <h2>Mentions légales</h2>
+        <p>Ce site web est la propriété de l’entreprise Binguini Bakhaga. Tous les contenus publiés sur ce site sont conformes aux réglementations en vigueur.</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 Binguini Bakhaga. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
